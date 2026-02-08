@@ -61,5 +61,3 @@ Open `http://127.0.0.1:8000/` in your browser and upload an image to extract tex
 - If you see a `TesseractNotFoundError`, confirm Tesseract is installed and the path in `OCR/core/views.py` is correct.
 - If uploads fail, ensure the form is sending `multipart/form-data` (already configured in the template).
 
-## License
-Add a license file if you plan to distribute this project.
